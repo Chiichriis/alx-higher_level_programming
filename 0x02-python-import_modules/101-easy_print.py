@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-__import__('os').system("echo \#pythoniscool")
+__builtins__.__dict__['p,r,i,n,t'.replace(',', '')]('#pythoniscool')
